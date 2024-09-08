@@ -1,7 +1,7 @@
 {
     "name": "pure-animations",
     "description": "Your favorite animate.css effects available as ES modules for use with the Web Animations API.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "homepage": "https://github.com/ssjblue197/pure-animations",
     "author": "Mr.P",
     "license": "MIT",
