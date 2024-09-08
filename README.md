@@ -68,5 +68,5 @@ npm run build
 
 This will purge and rebuild the `dist` directory.
 
-Please report all bugs and suggestions to [the issue tracker](https://github.com/shoelace-style/animations/issues).
+Please report all bugs and suggestions to [the issue tracker](https://github.com/ssjblue197/pure-animations/issues).
 # pure-animations
